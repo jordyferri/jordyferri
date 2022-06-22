@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Olá !! Jordy Raven Sarmiento Ferri</h1>
+<h1 align="center">👋, Olá !! Jordy Raven Sarmiento Ferri</h1>
 <h3 align="left">Desenvolvedor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordyferri&label=jordyferri&color=0e75b6&style=flat" alt="jordyferri" /> </p>
