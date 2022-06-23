@@ -1,7 +1,3 @@
-
-  ![pokemon_jolteon_run-pokemon](https://user-images.githubusercontent.com/102374117/175350635-7c5c28fb-2ed2-407e-a62b-9ceaf4cb5b81.gif)
-
-
 <h1 align="center">  Olá !! Eu sou Jordy Raven Sarmiento Ferri</h1>
 <h3 align="center">Graduando Superior em Analise e desenvolvimento de sistemas</h3>
 
